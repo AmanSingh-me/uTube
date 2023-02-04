@@ -1,6 +1,6 @@
 {
   "arrowParens": "avoid",
   "trailingComma": "es5",
-  "singleQuote": false,
+  "singleQuote": true,
   "semi": true
 }
